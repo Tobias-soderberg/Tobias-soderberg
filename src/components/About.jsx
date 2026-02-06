@@ -5,16 +5,18 @@ export default function About() {
         <div className="section__panel">
           <h2 className="section__title">Who is Tobias?</h2>
           <p className="section__text">
-            Full-stack developer with a passion for building clean, efficient
-            web applications.
-            <br />
-            Experienced in many languages including Java, React, C#, .NET, and
-            SQL databases.
-            <br />
-            I enjoy creating intuitive user interfaces and robust APIs that
-            solve real-world problems.
-            <br />
-            Always eager to learn new technologies and improve my skills.
+            I’m Tobias — an analytical and reliable developer who enjoys solving
+            real problems and building software that people want to use. I’m
+            especially interested in backend and full-stack development, where I
+            can design dependable systems and turn complex ideas into practical
+            solutions.
+          </p>
+
+          <p className="section__text">
+            After my internship at Efacec, I’m now looking for my first
+            full-time developer role where I can keep learning, contribute to a
+            strong team, and create technology that makes everyday life a little
+            better.
           </p>
 
           <ul className="meta">
@@ -25,8 +27,7 @@ export default function About() {
               <strong>Availability:</strong> Open to work
             </li>
             <li>
-              <strong>Interests:</strong> Backend, Scripts, APIs, clean code,
-              Web apps
+              <strong>Focus:</strong> Backend / Full-stack
             </li>
           </ul>
         </div>
