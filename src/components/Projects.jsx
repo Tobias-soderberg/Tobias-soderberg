@@ -85,11 +85,6 @@ export default function Projects() {
         <div className="section__panel">
           <h2 className="section__title">Projects</h2>
 
-          <p className="section__text">
-            Most of these are school projects. I also have older university
-            projects in GitLab, but I no longer have access to that account.
-          </p>
-
           <div className="grid">
             {projects.map((p) => (
               <article className="card" key={p.name}>

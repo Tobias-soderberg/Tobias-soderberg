@@ -2,7 +2,7 @@
 
 const experience = [
   {
-    company: "Efacec, Porto (Portugal)",
+    company: "Efacec, Porto, Portugal",
     role: "Software Developer Intern",
     start: "Sep 2024",
     end: "Jun 2025",
@@ -26,7 +26,7 @@ const experience = [
     ],
   },
   {
-    company: "McDonald’s, Tornby Linköping",
+    company: "McDonald’s, Tornby Linköping, Sweden",
     role: "Shift Manager",
     start: "Feb 2020",
     end: "Sep 2022",
@@ -50,7 +50,7 @@ const experience = [
     ],
   },
   {
-    company: "McDonald’s, Tornby Linköping",
+    company: "McDonald’s, Tornby Linköping, Sweden",
     role: "Team Member",
     start: "Oct 2018",
     end: "Feb 2020",
