@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="container footer__inner">
         <span className="muted">© {new Date().getFullYear()} Tobias Söderberg</span>
-        <span className="muted">Built with React</span>
+        <span className="muted">Open for work</span>
       </div>
     </footer>
   );
